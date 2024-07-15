@@ -14,7 +14,7 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 Objective:
 Create a versatile LiveView modal component within a Phoenix application that can dynamically display various types of content. The component should be reusable and adaptable to different media formats, such as text, images, and videos.
 
-![]()
+![modal](https://github.com/AlbertoGinel/GlobalReaderTest/blob/main/readme/ejemplo-ezgif.com-video-to-gif-converter.gif?raw=true)
 
 For this project, I implemented the `DynamicModalComponent` using `Phoenix.LiveComponent`, a dynamic modal window, along with a title, it accepts an array of media elements (image, text, or video). The modal window closes with an 'X'.
 
